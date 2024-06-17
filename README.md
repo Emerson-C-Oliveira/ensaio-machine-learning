@@ -94,4 +94,4 @@ entendimento sobre o funcionamento de diversos algoritmos de
 classificação, regressão e clusterização e quais os principais parâmetros
 de controle entre os estados de underfitting e overfitting.
 # Próximos passos
-Como próximos passos desse ensaio, pretendo aplicar em outros algoritmos de Machine Learning e, usar diferentes conjuntos de dados para aumentar o conhecimento sobre o algoritmo e quais cenários são mais favoráveis para o aumento da performance dos mesmos. Também pretendo utilizar a busca em grid para encontrar os melhores parâmetros de forma automatizada, nos algoritmos já treinados. 
+Como próximos passos deste ensaio, pretendo aplicar outros algoritmos de Machine Learning e utilizar diferentes conjuntos de dados para aprofundar o conhecimento sobre cada algoritmo e identificar os cenários mais favoráveis para aumentar sua performance. Além disso, pretendo utilizar a busca em grid para encontrar de forma automatizada os melhores parâmetros para os algoritmos já treinados.
