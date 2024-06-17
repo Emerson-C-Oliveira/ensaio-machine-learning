@@ -74,7 +74,7 @@ dados.
 ## Ensaio de classificação:
 ![metricas_classificacao](img/classificacao.png)
 ## Ensaio de regressão:
-![metricas_regressao]( img/regressao.png)
+![metricas_regressao](img/regressao.png)
 ## Ensaio de clusterização:
 ![metricas_clusterizacao]( img/clusterizacao.png)
 # Conclusão
