@@ -73,14 +73,10 @@ dados.
 # Resultados
 ## Ensaio de classificação:
 ![metricas_classificacao](img/classificacao.png)
-## Ensaio de regressão:### Sobre os dados de treinamento
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
-### Sobre os dados de validação
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
-### Sobre os dados de teste
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+## Ensaio de regressão:
+![metricas_regressao]( img/regressao.png)
 ## Ensaio de clusterização:
-![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
+![metricas_clusterizacao]( img/clusterizacao.png)
 # Conclusão
 Nesse ensaio de Machine Learning, consegui adquirir experiência e
 entender melhor sobre os limites dos algoritmos entre os estados de
