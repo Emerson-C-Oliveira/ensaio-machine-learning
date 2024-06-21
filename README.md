@@ -1,5 +1,7 @@
 # Ensaio de Machine Learning
-![capa_projeto](img/capa_projeto.jpg)
+
+<img src="img/capa_projeto.jpg" alt="Capa do Projeto" width="1070" height="500">
+
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
 fino dos algoritmos, feito pelos Cientistas de Dados da empresa, é a
